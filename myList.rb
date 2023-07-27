@@ -1,4 +1,4 @@
-require_relative 'myEnumerable'
+require_relative 'myenumerable'
 
 class MyList
   include MyEnumerable
@@ -25,10 +25,10 @@ end
 #       end
 #     end
 
-    # class MyList
-    #   include MyEnumerable
-    
-    #   def initialize(data)
-    #     @list = data
-    #   end
-    # end
+# class MyList
+#   include MyEnumerable
+
+#   def initialize(data)
+#     @list = data
+#   end
+# end

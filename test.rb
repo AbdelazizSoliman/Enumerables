@@ -1,4 +1,4 @@
-require_relative 'mylist'
+require_relative 'my_list'
 
 # Verify your solution:
 

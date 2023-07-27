@@ -16,19 +16,5 @@ module MyEnumerable
     end
   end
   
-
-# module MyEnumerable
-#     def each(&block)
-#       @list.each(&block)
-#     end
-  
-#     def select(&block)
-#       selected_items = []
-#       @list.each do |item|
-#         selected_items << item if block.call(item)
-#       end
-#       selected_items
-#     end
-#   end
   
   
